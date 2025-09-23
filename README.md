@@ -1,2 +1,2 @@
 # team-stark
-sih project
+Smart AI Drone for Leaf-Level Precision Spraying
